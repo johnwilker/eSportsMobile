@@ -12,3 +12,9 @@ web-build/
 
 # macOS
 .DS_Store
+
+# vscode setting
+*.vscode/
+
+#files
+mobile.txt
